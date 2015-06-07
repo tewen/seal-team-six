@@ -1,0 +1,15 @@
+{
+  "name": "seal-team-six",
+  "version": "1.0.0",
+  "description": "A performance review app for the seal team.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Ewen",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "bootstrap": "^3.3.4",
+    "lodash": "^3.9.3"
+  }
+}

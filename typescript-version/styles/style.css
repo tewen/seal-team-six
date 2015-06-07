@@ -1,0 +1,28 @@
+.crop {
+    width: 500px;
+    height: 500px
+}
+
+img {
+    display: block;
+    height: auto !important;
+    min-width: 400px;
+    min-height: 400px;
+    width: 100%;
+}
+
+.container {
+    width: 1000px;
+}
+
+.good {
+    color: #5CB85C;
+}
+
+.bad {
+    color: #D9534F;
+}
+
+.seal {
+    margin-bottom: 30px;
+}
